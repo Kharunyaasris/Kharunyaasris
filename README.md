@@ -2,13 +2,13 @@
 
 # KHARUNYAA SRI S
 
-### Software Engineer · Entrepreneur · Oxford-Bound 🎯
+### Software Engineer · Problem Solver · Builder 🔥
 
-*"Building today what the world will use tomorrow."*
+*"Figure it out. Build it. Ship it."*
 
 ---
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Software+Engineering+%40+UOW+Malaysia;BS+%40+IIT+Madras;Building+real+things+that+matter;Future+Oxford+1%2B1+MBA)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Software+Engineering+%40+UOW+Malaysia;BS+%40+IIT+Madras;Building+real+things+that+matter;Always+learning.+Always+building.)
 
 </div>
 
@@ -19,17 +19,16 @@
 ```python
 kharunyaa = {
     "name"        : "Kharunyaa Sri S",
-    "age"         : 20,
     "nationality" : "Indian 🇮🇳",
     "based_in"    : "Malaysia 🇲🇾",
     "degrees"     : [
                      "BSc Software Engineering — UOW Malaysia",
-                     "BS — IIT Madras (Foundations)"
+                     "BS — IIT Madras"
                     ],
-    "goal"        : "Oxford 1+1 MBA (MSc CS + MBA at Saïd)",
-    "currently"   : ["Building projects", "Leading @ Student Entrepreneurship Club",
-                     "CS50 Cybersecurity (Harvard)"],
-    "mindset"     : "Figure it out. Build it. Ship it."
+    "currently"   : ["Building projects",
+                     "Leading @ Student Entrepreneurship Club",
+                     "CS50 Cybersecurity — Harvard"],
+    "mindset"     : "Solve it. Build it. Level up."
 }
 ```
 
@@ -46,39 +45,22 @@ kharunyaa = {
 
 ---
 
-## 🚀 What I'm Up To
+## 🚀 What I'm Currently Up To
 
 - 🔐 **CS50 Cybersecurity** — Harvard (in progress)
-- 📚 **IITM BS Degree** — Foundations level
-- 🏗️ **Building projects** every semester break
+- 📚 **IITM BS Degree** — in progress
+- 🏗️ **Building projects** — always
 - 🏆 **Secretary** — Student Entrepreneurship Club, UOW Malaysia
-- 🎯 **Working toward Oxford** — one step at a time
 
 ---
 
 ## 📌 Projects
 
-> *"Every project is a step closer to the startup."*
-
 | Project | Description | Tech | Status |
 |---|---|---|---|
-| 🔐 Coming Soon | Cybersecurity tool | Python | 🔄 Building |
-| 💡 Coming Soon | Startup MVP | TBD | 💭 Ideating |
+| 🔐 Coming Soon | — | Python | 🔄 Building |
 
-*More projects dropping each semester break — watch this space.*
-
----
-
-## 🎯 The Big Picture
-
-```
-2024 - 2027  →  Crush UG + IITM + Build startup
-2027 - 2029  →  Real world experience + GMAT
-2029 - 2030  →  Oxford application
-2030 - 2031  →  Oxford MSc Computer Science
-2031 - 2032  →  Oxford MBA @ Saïd Business School
-    2032     →  Change something. 🌍
-```
+*More coming soon. Watch this space.*
 
 ---
 
